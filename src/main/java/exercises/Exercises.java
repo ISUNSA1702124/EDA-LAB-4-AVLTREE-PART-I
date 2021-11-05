@@ -20,7 +20,7 @@ public class Exercises {
     public String isBalanced(String a) {
         //TODO implement here!
 
-        return "NO";
+        return "";
     }
 
 
